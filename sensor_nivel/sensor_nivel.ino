@@ -5,6 +5,7 @@ const int VOLUME_CAIXA = 1000;
 int contaConsumo = 0;
 
 
+
 void setup() {
   Serial.begin(115200);
   pinMode(SENSOR_ALTO,0);
